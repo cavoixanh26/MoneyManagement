@@ -1,0 +1,28 @@
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\bin\Debug\net6.0\MoneyManagementLibrary.deps.json
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\bin\Debug\net6.0\MoneyManagementLibrary.runtimeconfig.json
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\bin\Debug\net6.0\MoneyManagementLibrary.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\bin\Debug\net6.0\MoneyManagementLibrary.pdb
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.csproj.AssemblyReference.cache
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.AssemblyInfoInputs.cache
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.AssemblyInfo.cs
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.csproj.CoreCompileInputs.cache
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\obj\Debug\net6.0\refint\MoneyManagementLibrary.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.pdb
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.genruntimeconfig.cache
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementLibrary\obj\Debug\net6.0\ref\MoneyManagementLibrary.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.csproj.AssemblyReference.cache
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.AssemblyInfoInputs.cache
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.AssemblyInfo.cs
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.csproj.CoreCompileInputs.cache
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\obj\Debug\net6.0\refint\MoneyManagementLibrary.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.pdb
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\bin\Debug\net6.0\MoneyManagementLibrary.deps.json
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\bin\Debug\net6.0\MoneyManagementLibrary.runtimeconfig.json
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\bin\Debug\net6.0\MoneyManagementLibrary.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\bin\Debug\net6.0\MoneyManagementLibrary.pdb
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\obj\Debug\net6.0\MoneyManagementLibrary.genruntimeconfig.cache
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementLibrary\obj\Debug\net6.0\ref\MoneyManagementLibrary.dll

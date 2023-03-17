@@ -1,0 +1,153 @@
+﻿@model IEnumerable<MoneyManagementLibrary.DataAccess.Loan>
+
+@{
+    ViewData["Title"] = "index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var timeNow = DateTime.Now;
+}
+
+<h1>Các khoản cho vay</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-action="List">
+    TÌm kiếm: <input type="text" name="search" placeholder="tìm gì..."/> <br />
+    Thời gian từ: <input type="date" name="timeFrom" />  đến: <input type="date" name="timeTo" value="@timeNow" /> <br/>
+    Sắp xếp theo tiền: <select name="sortMoney">
+        <option value="">---Sắp xếp---</option>
+        <option value="asc">tăng dần</option>
+        <option value="desc">giảm dần</option>
+    </select>  <br />
+     Đã thanh toán: <select name="status">
+        <option value="">---Tình trạng---</option>
+        <option value="true">Đã trả</option>
+        <option value="false">Chưa trả</option>
+    </select> quá hạn<select name="deadline">
+        <option value="">---Tình trạng---</option>
+        <option value="true">Uy tín</option>
+        <option value="false">Không uy tín</option>
+    </select>
+     <input type="submit" value="tim kiem" />
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Describe)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Time)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Deadline)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Money)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            @if (timeNow > item.Deadline && !item.Status)
+            {
+                <tr style="color: red">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Describe)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Time)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Deadline)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Money)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Rate)
+                    </td>
+                    <td>
+                        @if (item.Status == true)
+                        {
+                            <p>Đã trả</p>
+                        }
+                        @if (item.Status == false)
+                        {
+                            <p>Chưa Trả</p>
+                        }
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { Id = item.Id }) |
+                        @Html.ActionLink("Details", "Details", new { Id = item.Id }) |
+                        @Html.ActionLink("Delete", "Delete", new { Id = item.Id })
+                    </td>
+                </tr>
+            }else
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Describe)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Time)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Deadline)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Money)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Rate)
+                    </td>
+                    <td>
+                        @if (item.Status == true)
+                        {
+                            <p>Đã trả</p>
+                        }
+                        @if (item.Status == false)
+                        {
+                            <p>Chưa Trả</p>
+                        }
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { Id = item.Id }) |
+                        @Html.ActionLink("Details", "Details", new { Id = item.Id }) |
+                        @Html.ActionLink("Delete", "Delete", new { Id = item.Id })
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

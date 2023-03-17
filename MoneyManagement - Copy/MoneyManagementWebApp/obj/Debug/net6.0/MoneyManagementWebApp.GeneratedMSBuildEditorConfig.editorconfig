@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MoneyManagementWebApp
+build_property.RootNamespace = MoneyManagementWebApp
+build_property.ProjectDir = E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWebApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Income/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jb21lXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Income/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jb21lXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Income/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jb21lXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Income/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jb21lXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Income/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jb21lXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Income/Query.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jb21lXFF1ZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Loan/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Loan/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Loan/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Loan/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Loan/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Loan/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Spend/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlbmRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Spend/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlbmRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Spend/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlbmRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Spend/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlbmRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Spend/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlbmRcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ky 5/PRN211/MoneyManagement - Copy/MoneyManagementWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jqdw26rvyv

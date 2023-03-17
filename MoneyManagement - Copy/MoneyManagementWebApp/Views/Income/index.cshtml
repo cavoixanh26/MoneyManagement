@@ -1,0 +1,84 @@
+﻿@using MoneyManagementLibrary.DataAccess;
+@model IEnumerable<MoneyManagementLibrary.DataAccess.Income>
+
+@{
+    ViewData["Title"] = "index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Danh sách thu nhập</h1>
+<div>
+    <form asp-action="Query">
+        <div>
+
+            <input type="text" placeholder="Tìm kiếm"  name="search"/>
+            <select name="sort">
+                <option selected value="ok">---sắp xếp---</option>
+                <option value="tang">Số tiền tăng dần</option>
+                <option value="giam">Số tiền giảm dần</option>
+            </select>
+            @foreach (CateIncome item in @ViewBag.Category)
+            {
+                <input type="checkbox" name="category" value="@item.Id" />
+                <label>@item.Name</label>
+            }
+        </div>
+        <div>
+            Thời gian từ: <input type="date" name="from"/>
+            đến <input type="date" name="to"/>
+        </div>
+        <input type="submit" value="Áp dụng" />
+    </form>
+</div>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Describe)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Time)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Money)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CateId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Describe)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Time)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Money)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CateId)
+                </td>>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

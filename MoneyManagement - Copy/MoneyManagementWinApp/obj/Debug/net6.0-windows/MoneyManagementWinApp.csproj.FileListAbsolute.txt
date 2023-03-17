@@ -1,0 +1,135 @@
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.csproj.AssemblyReference.cache
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.frmLogin.resources
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.frmMoneyManagement.resources
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.frmSignUp.resources
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.csproj.GenerateResource.cache
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.AssemblyInfoInputs.cache
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.AssemblyInfo.cs
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.csproj.CoreCompileInputs.cache
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementWinApp.exe
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementWinApp.deps.json
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementWinApp.runtimeconfig.json
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementWinApp.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementWinApp.pdb
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementLibrary.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementLibrary.pdb
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.csproj.CopyComplete
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\refint\MoneyManagementWinApp.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.pdb
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.genruntimeconfig.cache
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\ref\MoneyManagementWinApp.dll
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.frmDetailManagement.resources
+E:\ky 5\PRN211\MoneyManagement\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.frmAddNew.resources
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementWinApp.exe
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementWinApp.deps.json
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementWinApp.runtimeconfig.json
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementWinApp.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementWinApp.pdb
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementLibrary.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\MoneyManagementLibrary.pdb
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.csproj.AssemblyReference.cache
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.frmAddNew.resources
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.frmDetailManagement.resources
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.frmLogin.resources
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.frmMoneyManagement.resources
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.frmSignUp.resources
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.csproj.GenerateResource.cache
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.AssemblyInfoInputs.cache
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.AssemblyInfo.cs
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.csproj.CoreCompileInputs.cache
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.csproj.CopyComplete
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\refint\MoneyManagementWinApp.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.pdb
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.genruntimeconfig.cache
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\ref\MoneyManagementWinApp.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\obj\Debug\net6.0-windows\MoneyManagementWinApp.frmDetailManagement1.resources
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\appsettings.json
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\ky 5\PRN211\MoneyManagement - Copy\MoneyManagementWinApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

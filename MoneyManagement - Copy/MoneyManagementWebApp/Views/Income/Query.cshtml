@@ -1,0 +1,111 @@
+﻿@using MoneyManagementLibrary.DataAccess;
+@using MoneyManagementLibrary.Repository;
+@model IEnumerable<MoneyManagementLibrary.DataAccess.Income>
+
+@{
+    ViewData["Title"] = "Query";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Income</h1>
+<div>
+    <form asp-action="Query">
+        <div>
+
+            <input type="text" placeholder="Tìm kiếm" name="search" value="@ViewBag.Search" />
+            <select name="sort">
+                @if (@ViewBag.Sort == "tang")
+                {
+                    <option value="ok">---sắp xếp---</option>
+                    <option value="tang" selected>Số tiền tăng dần</option>
+                    <option value="giam">Số tiền giảm dần</option>
+                } @if (@ViewBag.Sort == "giam")
+                {
+                    <option value="ok">---sắp xếp---</option>
+                    <option value="tang">Số tiền tăng dần</option>
+                    <option value="giam" selected>Số tiền giảm dần</option>
+                }@if (@ViewBag.Sort == "ok")
+                {
+                    <option selected value="ok">---sắp xếp---</option>
+                    <option value="tang">Số tiền tăng dần</option>
+                    <option value="giam">Số tiền giảm dần</option>
+                }
+            </select>
+
+            @foreach (CateIncome item in @ViewBag.Category)
+            {
+                int okok = 0;
+                @foreach (int cate in ViewBag.Cate)
+                {
+                    @if (@cate == @item.Id)
+                    {
+                        <input type="checkbox" name="category" value="@item.Id" checked />
+                        okok = 1;
+                    }
+                }
+                @if (okok != 1)
+                {
+                    <input type="checkbox" name="category" value="@item.Id" />
+                }
+                <label>@item.Name</label>
+            }
+        </div>
+        <div>
+            Thời gian từ: <input type="date" name="from" value="@ViewBag.From" />
+            đến <input type="date" name="to" value="@ViewBag.To"/>
+        </div>
+        <input type="submit" value="Áp dụng" />
+    </form>
+</div>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Describe)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Time)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Money)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CateId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Describe)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Time)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Money)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CateId)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new {Id = item.Id}) |
+                    @Html.ActionLink("Details", "Details", new { Id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { Id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
